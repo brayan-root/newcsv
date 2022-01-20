@@ -1,0 +1,4 @@
+name,version,status,capacity 
+vlc,7.2,production,324
+rufus,4.2,beta,22
+vim,4.3,alpha,9
